@@ -50,14 +50,14 @@ pluginManagement {
 ### build.gradle.kts
 ```kotlin
 plugins {
-    id("net.kappamc.kapregh") version "1.0.2-SNAPSHOT"
+    id("net.kappamc.kapregh") version "1.1.0-SNAPSHOT"
 }
 ```
 
 ### build.gradle
 ```groovy
 plugins {
-    id "net.kappamc.kapregh" version "1.0.2-SNAPSHOT"
+    id "net.kappamc.kapregh" version "1.1.0-SNAPSHOT"
 }
 ```
 
