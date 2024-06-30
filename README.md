@@ -2,7 +2,7 @@
 
 ---
 
-### Version: 1.0.2-SNAPSHOT
+### Version: 1.1.0-SNAPSHOT
 ### This is a build tool ***for Kappa server***.
 ### [Website](https://github.com/smbServer/Kapregh)
 ### [LICENSE](https://github.com/smbServer/Kapregh/blob/main/LICENSE)
